@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Folder xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">  <Placemark><name>START</name>
+<Point>
+<coordinates>35.2098136,32.1027656,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>END</name>
+<Point>
+<coordinates>35.209848,32.102765,0
+</coordinates>
+</Point>
+</Placemark></Folder></kml>

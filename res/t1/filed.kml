@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Folder xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">  <Placemark><name>(00)</name>
+<Point>
+<coordinates>35.2118682702,32.1045126181,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(01)</name>
+<Point>
+<coordinates>35.2118669791,32.1045036673,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(02)</name>
+<Point>
+<coordinates>35.2118656879,32.1044947164,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(03)</name>
+<Point>
+<coordinates>35.2118643967,32.1044857656,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(04)</name>
+<Point>
+<coordinates>35.2118631055,32.1044768148,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(05)</name>
+<Point>
+<coordinates>35.2118618143,32.1044678639,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(06)</name>
+<Point>
+<coordinates>35.2118605231,32.1044589131,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(07)</name>
+<Point>
+<coordinates>35.211859232,32.1044499622,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(08)</name>
+<Point>
+<coordinates>35.2118579408,32.1044410114,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(09)</name>
+<Point>
+<coordinates>35.2118566496,32.1044320606,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(10)</name>
+<Point>
+<coordinates>35.2118577544,32.1045137171,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(11)</name>
+<Point>
+<coordinates>35.2118564632,32.1045047663,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(12)</name>
+<Point>
+<coordinates>35.211855172,32.1044958155,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(13)</name>
+<Point>
+<coordinates>35.2118538808,32.1044868646,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(14)</name>
+<Point>
+<coordinates>35.2118525897,32.1044779138,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(15)</name>
+<Point>
+<coordinates>35.2118512985,32.1044689629,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(16)</name>
+<Point>
+<coordinates>35.2118500073,32.1044600121,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(17)</name>
+<Point>
+<coordinates>35.2118487161,32.1044510613,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(18)</name>
+<Point>
+<coordinates>35.2118474249,32.1044421104,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(19)</name>
+<Point>
+<coordinates>35.2118461338,32.1044331596,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(20)</name>
+<Point>
+<coordinates>35.2118472386,32.1045148162,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(21)</name>
+<Point>
+<coordinates>35.2118459474,32.1045058653,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(22)</name>
+<Point>
+<coordinates>35.2118446562,32.1044969145,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(23)</name>
+<Point>
+<coordinates>35.211843365,32.1044879636,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(24)</name>
+<Point>
+<coordinates>35.2118420738,32.1044790128,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(25)</name>
+<Point>
+<coordinates>35.2118407826,32.104470062,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(26)</name>
+<Point>
+<coordinates>35.2118394915,32.1044611111,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(27)</name>
+<Point>
+<coordinates>35.2118382003,32.1044521603,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(28)</name>
+<Point>
+<coordinates>35.2118369091,32.1044432094,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(29)</name>
+<Point>
+<coordinates>35.2118356179,32.1044342586,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(30)</name>
+<Point>
+<coordinates>35.2118367227,32.1045159152,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(31)</name>
+<Point>
+<coordinates>35.2118354315,32.1045069643,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(32)</name>
+<Point>
+<coordinates>35.2118341403,32.1044980135,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(33)</name>
+<Point>
+<coordinates>35.2118328492,32.1044890627,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(34)</name>
+<Point>
+<coordinates>35.211831558,32.1044801118,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(35)</name>
+<Point>
+<coordinates>35.2118302668,32.104471161,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(36)</name>
+<Point>
+<coordinates>35.2118289756,32.1044622101,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(37)</name>
+<Point>
+<coordinates>35.2118276844,32.1044532593,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(38)</name>
+<Point>
+<coordinates>35.2118263933,32.1044443085,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(39)</name>
+<Point>
+<coordinates>35.2118251021,32.1044353576,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(40)</name>
+<Point>
+<coordinates>35.2118262069,32.1045170142,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(41)</name>
+<Point>
+<coordinates>35.2118249157,32.1045080634,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(42)</name>
+<Point>
+<coordinates>35.2118236245,32.1044991125,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(43)</name>
+<Point>
+<coordinates>35.2118223333,32.1044901617,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(44)</name>
+<Point>
+<coordinates>35.2118210421,32.1044812108,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(45)</name>
+<Point>
+<coordinates>35.211819751,32.10447226,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(46)</name>
+<Point>
+<coordinates>35.2118184598,32.1044633092,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(47)</name>
+<Point>
+<coordinates>35.2118171686,32.1044543583,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(48)</name>
+<Point>
+<coordinates>35.2118158774,32.1044454075,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(49)</name>
+<Point>
+<coordinates>35.2118145862,32.1044364566,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(50)</name>
+<Point>
+<coordinates>35.211815691,32.1045181132,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(51)</name>
+<Point>
+<coordinates>35.2118143998,32.1045091624,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(52)</name>
+<Point>
+<coordinates>35.2118131087,32.1045002116,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(53)</name>
+<Point>
+<coordinates>35.2118118175,32.1044912607,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(54)</name>
+<Point>
+<coordinates>35.2118105263,32.1044823099,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(55)</name>
+<Point>
+<coordinates>35.2118092351,32.104473359,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(56)</name>
+<Point>
+<coordinates>35.2118079439,32.1044644082,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(57)</name>
+<Point>
+<coordinates>35.2118066528,32.1044554574,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(58)</name>
+<Point>
+<coordinates>35.2118053616,32.1044465065,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(59)</name>
+<Point>
+<coordinates>35.2118040704,32.1044375557,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(60)</name>
+<Point>
+<coordinates>35.2118051752,32.1045192123,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(61)</name>
+<Point>
+<coordinates>35.211803884,32.1045102614,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(62)</name>
+<Point>
+<coordinates>35.2118025928,32.1045013106,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(63)</name>
+<Point>
+<coordinates>35.2118013016,32.1044923597,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(64)</name>
+<Point>
+<coordinates>35.2118000105,32.1044834089,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(65)</name>
+<Point>
+<coordinates>35.2117987193,32.1044744581,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(66)</name>
+<Point>
+<coordinates>35.2117974281,32.1044655072,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(67)</name>
+<Point>
+<coordinates>35.2117961369,32.1044565564,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(68)</name>
+<Point>
+<coordinates>35.2117948457,32.1044476055,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(69)</name>
+<Point>
+<coordinates>35.2117935546,32.1044386547,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(70)</name>
+<Point>
+<coordinates>35.2117946594,32.1045203113,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(71)</name>
+<Point>
+<coordinates>35.2117933682,32.1045113604,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(72)</name>
+<Point>
+<coordinates>35.211792077,32.1045024096,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(73)</name>
+<Point>
+<coordinates>35.2117907858,32.1044934588,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(74)</name>
+<Point>
+<coordinates>35.2117894946,32.1044845079,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(75)</name>
+<Point>
+<coordinates>35.2117882034,32.1044755571,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(76)</name>
+<Point>
+<coordinates>35.2117869123,32.1044666062,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(78)</name>
+<Point>
+<coordinates>35.2117843299,32.1044487046,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(79)</name>
+<Point>
+<coordinates>35.2117830387,32.1044397537,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(80)</name>
+<Point>
+<coordinates>35.2117841435,32.1045214103,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(81)</name>
+<Point>
+<coordinates>35.2117828523,32.1045124595,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(82)</name>
+<Point>
+<coordinates>35.2117815611,32.1045035086,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(83)</name>
+<Point>
+<coordinates>35.21178027,32.1044945578,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(84)</name>
+<Point>
+<coordinates>35.2117789788,32.1044856069,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(85)</name>
+<Point>
+<coordinates>35.2117776876,32.1044766561,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(86)</name>
+<Point>
+<coordinates>35.2117763964,32.1044677053,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(87)</name>
+<Point>
+<coordinates>35.2117751052,32.1044587544,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(89)</name>
+<Point>
+<coordinates>35.2117725229,32.1044408527,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(90)</name>
+<Point>
+<coordinates>35.2117736277,32.1045225093,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(91)</name>
+<Point>
+<coordinates>35.2117723365,32.1045135585,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(92)</name>
+<Point>
+<coordinates>35.2117710453,32.1045046076,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(93)</name>
+<Point>
+<coordinates>35.2117697541,32.1044956568,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(94)</name>
+<Point>
+<coordinates>35.2117684629,32.104486706,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(95)</name>
+<Point>
+<coordinates>35.2117671718,32.1044777551,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(96)</name>
+<Point>
+<coordinates>35.2117658806,32.1044688043,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(97)</name>
+<Point>
+<coordinates>35.2117645894,32.1044598534,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(98)</name>
+<Point>
+<coordinates>35.2117632982,32.1044509026,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(99)</name>
+<Point>
+<coordinates>35.211762007,32.1044419518,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>START</name>
+<Point>
+<coordinates>35.2117267,32.1045429,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>END</name>
+<Point>
+<coordinates> 35.211579
+,32.104422 ,0
+</coordinates>
+</Point>
+</Placemark></Folder></kml>

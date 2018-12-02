@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Folder xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">  <Placemark><name>(615)</name>
+<Point>
+<coordinates>35.2095022868,32.1029595198,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(714)</name>
+<Point>
+<coordinates>35.2095304457,32.1029507959,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1211)</name>
+<Point>
+<coordinates>35.2096533304,32.1029398691,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1213)</name>
+<Point>
+<coordinates>35.2096354204,32.1029725616,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1214)</name>
+<Point>
+<coordinates>35.2096264654,32.1029889079,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1312)</name>
+<Point>
+<coordinates>35.2096635794,32.1029638377,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1313)</name>
+<Point>
+<coordinates>35.2096546244,32.102980184,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1412)</name>
+<Point>
+<coordinates>35.2096827833,32.1029714601,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1511)</name>
+<Point>
+<coordinates>35.2097109423,32.1029627362,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>(1512)</name>
+<Point>
+<coordinates>35.2097019873,32.1029790825,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>START</name>
+<Point>
+<coordinates>35.2095254,32.1029346,0
+</coordinates>
+</Point>
+</Placemark>  <Placemark><name>END</name>
+<Point>
+<coordinates>35.209693,32.103237,0
+</coordinates>
+</Point>
+</Placemark></Folder></kml>
